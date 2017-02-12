@@ -5,3 +5,5 @@ w00-170208-17-PS-Lab session for week00
 w00-170209-13-LR-About: IPR & Scripting, From: Lecturer
 w00-170209-13-LR-About: IPR & Scripting, From: Lecturer
 w00-170209-13-LR-About: IPR & Scripting, From: Lecturer
+w01-170212-22-PS-Lab session for week01
+w01-170212-22-PS-Lab session for week01
