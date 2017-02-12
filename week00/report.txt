@@ -1,1 +1,2 @@
 #alberto
+In week00, the lab session requires us to fill a form about our identity and we also required to make a github and google account if we dont already have one yet. Then, if we already did all of that, we are required to login to the badak server.
