@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 alberto51 StafCS 4096 Feb 12 22:12 .
+drwx--x--x  3 alberto51 StafCS 4096 Feb 12 22:10 ..
+drwxr-xr-x  8 alberto51 StafCS 4096 Feb 12 22:11 .git
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:57 key
+-rw-r--r--  1 alberto51 StafCS    0 Feb 12 22:13 lab01.txt
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:57 log
+-rw-r--r--  1 alberto51 StafCS    7 Feb 12 21:51 README.md
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 22:02 sandbox
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 22:10 week00
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:55 week01
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:55 week02
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:56 week03
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:56 week04
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:56 week05
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:56 week06
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:56 week07
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:56 week08
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:57 week09
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:57 week10
+drwxr-xr-x  2 alberto51 StafCS 4096 Feb 12 21:57 xtra
+/home/fasilkom/mahasiswa/a/alberto51/os171/week01
