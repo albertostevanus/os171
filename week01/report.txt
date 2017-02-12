@@ -1,0 +1,2 @@
+alberto
+In week 1, the task is a tutorial to clone git repository, learning how to git, using text editor(e.g vi,vim,nano), intro to CLI, intro to scripting, and how to push and or pull repository
