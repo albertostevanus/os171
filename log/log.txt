@@ -1,9 +1,10 @@
-w00-170207-10-LR-About: Introduction to Operating System, From: Lecturer
-w00-170207-10-LR-About: Introduction to Operating System, From:Lecturer
-w00-170207-10-LR-About: Introduction to Operating System, From:Lecturer
-w00-170208-17-PS-Lab session for week00
-w00-170209-13-LR-About: IPR & Scripting, From: Lecturer
-w00-170209-13-LR-About: IPR & Scripting, From: Lecturer
-w00-170209-13-LR-About: IPR & Scripting, From: Lecturer
-w01-170212-22-PS-Lab session for week01
-w01-170212-22-PS-Lab session for week01
+w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
+w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
+w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
+w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
+w01-170216-18-PS-Lab session for week01
+w01-170216-18-PS-Lab session for week01
+w01-170215-13-LR-About: Introduction to license, From: Lecturer
+w01-170215-13-LR-About: Introduction to license, From: Lecturer
+w01-170215-13-LR-About: Introduction to license, From: Lecturer
+w01-170215-13-LR-About: Introduction to license, From: Lecturer
