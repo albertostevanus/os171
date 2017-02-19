@@ -11,9 +11,11 @@
 
 void main() {
 	int input = 3;
-	int i,product;
-	for(i=0; i<LOOP; i++) {
-		product = input*i;
+	int product = 0;
+	int i = 1;
+	while(i != LOOP + 1) {
+		product = product + input;
 		printf("%d times %d equals %d\n", input, i, product);
+		i++;
 	}
 }
