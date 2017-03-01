@@ -1,17 +1,17 @@
-w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
-w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
-w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
-w01-170214-10-LR-About: IPR and Scripting, From: Lecturer
+w01-170214-13-LR-About: IPR and Scripting, From: Lecturer
+w01-170214-13-LR-About: IPR and Scripting, From: Lecturer
+w01-170214-13-LR-About: IPR and Scripting, From: Lecturer
+w01-170214-13-LR-About: IPR and Scripting, From: Lecturer
 w01-170216-18-PS-Lab session for week01
 w01-170216-18-PS-Lab session for week01
 w01-170215-13-LR-About: Introduction to license, From: Lecturer
 w01-170215-13-LR-About: Introduction to license, From: Lecturer
 w01-170215-13-LR-About: Introduction to license, From: Lecturer
 w01-170215-13-LR-About: Introduction to license, From: Lecturer
-w02-170221-10-LR-About: Protection & security, From: Lecturer
-w02-170221-10-LR-About: Protection & security, From: Lecturer
-w02-170221-10-LR-About: Protection & security, From: Lecturer
-w02-170221-10-LR-About: Protection & security, From: Lecturer
+w02-170221-13-LR-About: Protection & security, From: Lecturer
+w02-170221-13-LR-About: Protection & security, From: Lecturer
+w02-170221-13-LR-About: Protection & security, From: Lecturer
+w02-170221-13-LR-About: Protection & security, From: Lecturer
 w02-170223-18-PS-Lab session for week02
 w02-170223-18-PS-Lab session for week02
 w02-170223-18-PS-Lab session for week02
@@ -19,3 +19,10 @@ w02-170223-13-LR-About: Introduction to C, From: Lecturer
 w02-170223-13-LR-About: Introduction to C, From: Lecturer
 w02-170223-13-LR-About: Introduction to C, From: Lecturer
 w02-170223-13-LR-About: Introduction to C, From: Lecturer
+w03-170225-21-PS-Lab session for week03
+w03-170225-21-PS-Lab session for week03
+w03-170228-13-LR-About: Boot, From: Lecturer
+w03-170228-13-LR-About: Boot, From: Lecturer
+w03-170228-13-LR-About: Boot, From: Lecturer
+w03-170228-13-LR-About: Boot, From: Lecturer
+
