@@ -25,4 +25,8 @@ w03-170228-13-LR-About: Boot, From: Lecturer
 w03-170228-13-LR-About: Boot, From: Lecturer
 w03-170228-13-LR-About: Boot, From: Lecturer
 w03-170228-13-LR-About: Boot, From: Lecturer
+w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
+w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
+w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
+w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
 
