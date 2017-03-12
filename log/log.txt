@@ -29,4 +29,16 @@ w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
 w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
 w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
 w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to pointer
+w04-170305-19-PS-Lab session for week04
+w04-170305-19-PS-Lab session for week04
+w04-170307-13-LR-About: Pointer, From: Lecturer
+w04-170307-13-LR-About: Pointer, From: Lecturer
+w04-170307-13-LR-About: Pointer, From: Lecturer
+w04-170307-13-LR-About: Pointer, From: Lecturer
+w04-170309-13-LR-About: Pointer & I/O, From: Lecturer
+w04-170309-13-LR-About: Pointer & I/O, From: Lecturer
+w04-170309-13-LR-About: Pointer & I/O, From: Lecturer
+w04-170309-13-LR-About: Pointer & I/O, From: Lecturer
+w05-170312-18-PS-Lab session for week05
+w05-170312-18-PS-Lab session for week05
 
