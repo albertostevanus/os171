@@ -41,4 +41,18 @@ w04-170309-13-LR-About: Pointer & I/O, From: Lecturer
 w04-170309-13-LR-About: Pointer & I/O, From: Lecturer
 w05-170312-18-PS-Lab session for week05
 w05-170312-18-PS-Lab session for week05
+w06-170321-13-LR-About: Physical memory & Midterm review
+w06-170321-13-LR-About: Physical memory & Midterm review
+w06-170321-16-LR-About: Assistance in class from teaching assistant
+w06-170321-16-LR-About: Assistance in class from teaching assistant
+w06-170321-17-LR-About: Assistance in class from teaching assistant
+w06-170321-17-LR-About: Assistance in class from teaching assistant
+w06-170323-13-LR-About: Midterm review
+w06-170323-13-LR-About: Midterm review
+w06-170406-13-LR-About: Fork, From: Lecturer
+w06-170406-13-LR-About: Fork, From: Lecturer
+w06-170406-13-LR-About: Fork, From: Lecturer
+w06-170406-13-LR-About: Fork, From: Lecturer
+w06-170408-13-PS-Lab session for week06
+w06-170408-13-PS-Lab session for week06
 
