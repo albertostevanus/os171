@@ -55,4 +55,22 @@ w06-170406-13-LR-About: Fork, From: Lecturer
 w06-170406-13-LR-About: Fork, From: Lecturer
 w06-170408-13-PS-Lab session for week06
 w06-170408-13-PS-Lab session for week06
+w07-170411-13-LR-About: Synchronization, From: Lecturer
+w07-170411-13-LR-About: Synchronization, From: Lecturer
+w07-170411-13-LR-About: Synchronization, From: Lecturer
+w07-170411-13-LR-About: Synchronization, From: Lecturer
+w07-170413-13-LR-About: Synchronization, From: Lecturer
+w07-170413-13-LR-About: Synchronization, From: Lecturer
+w07-170413-13-LR-About: Synchronization, From: Lecturer
+w07-170413-13-LR-About: Synchronization, From: Lecturer
+w07-170418-13-LR-About: Synchronization, From: Lecturer
+w07-170418-13-LR-About: Synchronization, From: Lecturer
+w07-170418-13-LR-About: Synchronization, From: Lecturer
+w07-170418-13-LR-About: Synchronization, From: Lecturer
+w07-170419-14-PS-Lab session for week07
+w07-170419-14-PS-Lab session for week07
+w07-170420-13-LR-About: Scheduling, From: Lecturer
+w07-170420-13-LR-About: Scheduling, From: Lecturer
+w07-170420-13-LR-About: Scheduling, From: Lecturer
+w07-170420-13-LR-About: Scheduling, From: Lecturer
 
