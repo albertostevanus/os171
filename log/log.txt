@@ -73,4 +73,14 @@ w07-170420-13-LR-About: Scheduling, From: Lecturer
 w07-170420-13-LR-About: Scheduling, From: Lecturer
 w07-170420-13-LR-About: Scheduling, From: Lecturer
 w07-170420-13-LR-About: Scheduling, From: Lecturer
+w08-170425-13-LR-About: Process Status, From: Lecturer
+w08-170425-13-LR-About: Process Status, From: Lecturer
+w08-170425-13-LR-About: Process Status, From: Lecturer
+w08-170425-13-LR-About: Process Status, From: Lecturer
+w08-170427-13-LR-About: Process Status, From: Lecturer
+w08-170427-13-LR-About: Process Status, From: Lecturer
+w08-170427-13-LR-About: Process Status, From: Lecturer
+w08-170427-13-LR-About: Process Status, From: Lecturer
+w08-170427-18-PS-Lab session for week08
+w08-170427-18-PS-Lab session for week08
 
